@@ -1,3 +1,3 @@
 # Demo
 
-This is a demo program.
+This is a demo program!
